@@ -32,6 +32,6 @@ public class Editor1 {
 		Runigram.setCanvas(imageIn);
 		Runigram.display(imageIn);
 		StdDraw.pause(3000); 
-		Runigram.display(imageOut);							
+		Runigram.display(imageOut);						
 	}
 }
